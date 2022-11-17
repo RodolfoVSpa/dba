@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="modelagem_lógica" id="92D3F1FF-C34E-EB5B-EA4E-BB913FC8CEEB" version="3.5">
+<createdBy>rodolfo.valentino</createdBy>
+<createdTime>2022-11-16 23:54:36 UTC</createdTime>
+<ownerDesignName>modelagem_lógica</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>92D3F1FF-C34E-EB5B-EA4E-BB913FC8CEEB</designId>
+</OSDM_Design>
